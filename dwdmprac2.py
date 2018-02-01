@@ -108,7 +108,7 @@ def binc_by_boundriesvalue(maindata):
 
 
 maindata = []
-maindata = file_import_data_csv("filedata.csv")
+maindata = file_import_data_csv("MeanValue.csv")
 
 #for dt in maindata:
 #print(maindata[0])
